@@ -116,7 +116,8 @@
 - **Java 17**: Programming language.
 - **Spring Boot**: Framework for building the application.
 - **Spring Batch**: Framework for batch processing.
-- **H2 Database**: In-memory database for storing results.
+- **H2 Database for test**: In-memory database for storing results.
+- **MySQL**:For real database and storing its result
 - **Lombok**: Library for reducing boilerplate code.
 - **Maven**: Build and dependency management tool.
 
