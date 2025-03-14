@@ -26,6 +26,7 @@ A Spring Batch application to process student exam results from a CSV file, calc
 - **Spring Boot 3.x**
 - **Spring Batch 5.x**
 - **H2 Database** (or MySQL/PostgreSQL)
+- **Mockaroo**: Generate Fake Student Data
 - **Maven** (for dependency management)
 
 ---
